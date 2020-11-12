@@ -1,2 +1,2 @@
-# PR
-Repositorio para Programacion con restricciones
+# FAL
+Repositorio para Fundamentos de Algoritmia
